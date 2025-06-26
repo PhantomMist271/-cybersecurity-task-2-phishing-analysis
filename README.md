@@ -80,7 +80,4 @@ Internship_Task2_Phishing_Analysis/
 
 ---
 
-## 🔗 Submission
-Task completed as part of Day 2 Internship.  
-[Submit your repo using this link](https://forms.gle/8Gm83s53KbyXs3Ne9)
 
